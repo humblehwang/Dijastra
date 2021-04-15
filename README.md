@@ -1,2 +1,2 @@
 # Dijastra
-Use Dijkstra algorithm to find shortest path
+Find the shortest path by Dijkstra algorithm
